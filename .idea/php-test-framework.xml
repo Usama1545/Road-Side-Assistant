@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="LocalC:\Users\Administrator\Desktop\laravel-with-firebase-auth-3fb96e171633de30f9154a37cc32c121612e5a90\vendor\autoload.php" version="9.6.11" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</project>
